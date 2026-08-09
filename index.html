@@ -367,20 +367,6 @@ td{font-size:14px}
       </section>
 
       <section class="page active" id="page-copy">
-        <div class="hero">
-          <div class="hero-row">
-            <div>
-              <h1>个人汽车自媒体工作台</h1>
-              <p>热点事实来自 WorkBuddy 每日抓取；AI 只负责摘要、归类和提供创作角度，不生成虚假新闻或虚假数据。</p>
-            </div>
-            <div class="data-state" id="homeState">今日数据尚未更新</div>
-          </div>
-        </div>
-
-        <div class="info-banner">
-          <strong>数据规则：</strong> 页面没有写死任何热点、热度、播放量或涨粉数据。WorkBuddy 未生成当天数据时，这里只显示“暂无数据”。
-        </div>
-
         <div class="info-banner" id="fileHint" style="display:none">
           <strong>JSON 数据未加载：</strong> 浏览器在 file:// 方式下禁止读取本地 JSON 文件。请用本地服务器打开本页面（例如在项目目录运行 <code>python -m http.server</code>，然后访问 <code>http://localhost:8000/个人汽车自媒体工作台.html</code>），或用 VS Code 的 Live Server 打开。
         </div>
@@ -615,7 +601,6 @@ function renderToday(){
 
   const updateText = DATA.updatedAt ? `更新时间：${DATA.updatedAt}` : '今日数据尚未更新';
   document.getElementById('updateBadge').textContent=updateText;
-  document.getElementById('homeState').textContent=updateText;
 
   renderAccountStats(DATA.accountStats);
 }
