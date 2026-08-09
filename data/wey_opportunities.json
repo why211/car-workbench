@@ -7,60 +7,162 @@
   },
   "opportunities": [
     {
-      "title": "蓝山停产传闻引发购车者疑虑 → 主动澄清抢占信任",
+      "title": "蓝山停产传闻持续发酵 → 主动澄清抢占信任",
       "relatedModel": "魏牌蓝山",
       "sourceType": "news",
-      "impact": "2026-08-05 蓝山被传停产、生产线暂停接单，魏牌CEO赵永坡官方回应：无停产规划，四季度推出全新SUV产品；官方客服说明生产线改造升级中，部分门店有现车。该传闻直接影响在售蓝山的意向客户决策（来源：红星新闻 2026-08-06）。",
+      "impact": "蓝山停产传闻8月9日仍在多平台被讨论，魏牌CEO赵永坡8月5日官方回应：无停产规划，Q4推出蓝山全新产品（SUV品类创新突破）；官方客服说明生产线整体改造升级中、部分门店有现车。该话题直接影响在售蓝山意向客户决策。",
       "contentAngles": [
-        "官方回应逐条解读：不停产、四季度新品、生产线升级意味着什么",
-        "现车资源紧张→抓紧锁车的话术（限量感，不编造数据）",
-        "V9X/V8X 与蓝山关系澄清（独立旗舰 vs 蓝山迭代）"
+        "官方回应逐条解读：不停产、Q4新品、生产线升级意味着什么",
+        "现车资源紧张→抓紧试驾锁车的话术（限量感，不编造数据）",
+        "V8X/V9X与蓝山关系澄清（独立旗舰 vs 蓝山迭代）"
       ],
       "salesOpportunity": {
         "targetCustomer": "已关注蓝山但被\"停产传闻\"劝退的意向客户",
         "sellingPoint": "官方已确认蓝山不停产、持续迭代；生产线改造升级是产品力提升信号；当前门店现车有限，尽早试驾锁车",
         "script": "wey_scripts/01-蓝山停产传闻澄清脚本.md"
       },
-      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
+      "sourceUrls": ["https://k.sina.cn/article_7880069022_1d5b04f9e068019vk6.html", "http://m.toutiao.com/group/7670860232423932416/"]
     },
     {
-      "title": "理想i8上市（30.98万起纯电）正面冲击30万级SUV → 蓝山差异化打\"插混无焦虑\"",
-      "relatedModel": "魏牌蓝山",
+      "title": "魏牌V8X定档8月14日发布 → 新品发布窗口期导流到店",
+      "relatedModel": "魏牌V8X",
       "sourceType": "news",
-      "impact": "2026-08-06 理想i8后驱长续航版上市，30.98万元起，CLTC续航780km、5C超充；与蓝山（29.98-32.68万插混）同价位竞争。纯电与插混路线之争是当前30万级家庭用户最纠结的问题（来源：凤凰网/汽车之家）。",
+      "impact": "魏建军8月8日官宣魏牌V8X（归元S平台智慧驾控五座旗舰）将于8月14日19:30发布，超级Hi4混动500kW/930N·m、CLTC综合续航1659km、800V+6C超充，已开启预订。V8X作为魏牌新旗舰，发布会将带来巨大关注度（来源：凤凰网/IT之家）。",
       "contentAngles": [
-        "蓝山 vs 理想i8：插混 vs 纯电，长途出行谁更省心",
-        "同为6座/大空间，理想更偏智能化标签，蓝山主打性价比+插混无焦虑",
-        "家庭用户真实场景对比：春节长途、露营、补能便利性"
+        "V8X发布会前瞻：5.9m²舱内有效面积、864L后备厢意味着什么",
+        "V8X与蓝山怎么选（五座旗舰 vs 六座家用）",
+        "8月魏牌产品矩阵：蓝山/V9X/V8X/高山各就各位"
       ],
       "salesOpportunity": {
-        "targetCustomer": "同时在看理想i8/蓝山的30万级家庭购车用户",
-        "sellingPoint": "蓝山WLTC综合续航1343km（插混），长途无补能焦虑；29.98万起比理想i8后驱版还低1万，配置与空间同级",
-        "script": "wey_scripts/02-蓝山vs理想i8对比脚本.md"
+        "targetCustomer": "关注魏牌旗舰新车的潜在客户（含蓝山意向未决者）",
+        "sellingPoint": "V8X 8月14日发布在即，可预约到店/线上锁定发布会信息；五座大空间+超级Hi4，与蓝山形成互补",
+        "script": ""
       },
-      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.autohome.com.cn/7727/"]
+      "sourceUrls": ["https://auto.ifeng.com/c/8vQYnQChw8d", "http://finance.sina.cn/tech/2026-08-08/detail-inimrerp6323264.d.html"]
     },
     {
-      "title": "大六座SUV需求升温（星光L热销）→ 六座升级需求导流蓝山",
+      "title": "魏牌V9X EV申报曝光 → 品牌旗舰纯电矩阵引发关注",
+      "relatedModel": "魏牌V9X",
+      "sourceType": "news",
+      "impact": "8月7日工信部第410批公告公示魏牌V9X EV（纯电六座，220kW+320kW双电机四驱、轴距3150mm），补齐旗舰纯电矩阵；纯电旗舰话题给魏牌品牌带来新一轮关注（来源：网通社/易车）。",
+      "contentAngles": [
+        "V9X EV申报解读：纯电旗舰对魏牌意味着什么",
+        "魏牌旗舰矩阵梳理：蓝山(六座插混)/V9X(六座)/V9X EV/V8X(五座)",
+        "纯电与插混旗舰的选择逻辑"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "关注魏牌品牌升级与旗舰新车的客户",
+        "sellingPoint": "魏牌正处在产品大年：V8X 8月14日发布、V9X EV申报，旗舰矩阵持续扩容，品牌向上趋势明显",
+        "script": ""
+      },
+      "sourceUrls": ["https://auto.ifeng.com/c/8vOh3wOkWMZ", "https://news.yiche.com/xinchexiaoxi/20260807/15112090714.html"]
+    },
+    {
+      "title": "华为智驾标配化/价格下探 → 蓝山差异化打\"智驾+插混无焦虑\"",
       "relatedModel": "魏牌蓝山",
       "sourceType": "news",
-      "impact": "10万级大六座星光L上市两周交付5650台，印证大六座需求旺盛；预算充足的家庭用户存在\"从入门六座升级到30万级插混六座\"的迁移路径（来源：车市风景线）。",
+      "impact": "本周华为乾崑ADS5密集上车并下探：阿维塔07L全系标配（21.99万起）、星海V6下探至10.49万起、奕派M8 16.98万起全系标配。智驾已成20-30万级标配，蓝山的差异化需要从\"智驾硬件\"转向\"智驾+插混补能+大空间家庭场景\"组合（AI分析）。",
+      "contentAngles": [
+        "智驾标配化时代，蓝山的智驾价值如何讲",
+        "蓝山 VLA大模型智驾 vs 华为ADS5：不同路线的体验差异",
+        "插混+智驾+六座的家庭场景优势"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "同时在看阿维塔07L/星海V6/奕派M8等智驾车型的30万级家庭用户",
+        "sellingPoint": "蓝山29.98万起：VLA大模型智驾+WLTC综合续航1343km插混无焦虑+2+2+2真六座，智驾与补能家庭场景兼顾",
+        "script": ""
+      },
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "https://auto.sina.cn/2026-08-08/detail-inimqtzr4252230.d.html"]
+    },
+    {
+      "title": "大六座SUV需求爆发（H10/奕派M8/星海V6爆单） → 六座升级需求导流蓝山",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "长城H10六座版24小时大定31826台、东风奕派M8上市4小时订单破万、星海V6六座10万级走量，印证大六座需求旺盛；预算充足的入门六座用户存在\"升级到30万级插混六座\"的迁移路径（来源：中华网/新浪汽车，AI分析）。",
       "contentAngles": [
         "为什么越来越多人选6座？大六座需求解读",
         "10万级六座 vs 30万级六座：差在哪里（空间/智驾/舒适/动力）",
         "六座SUV选购清单：按预算分层推荐"
       ],
       "salesOpportunity": {
-        "targetCustomer": "正在看10-20万级六座SUV、预算可上探的家庭用户",
+        "targetCustomer": "正在看10-20万级六座SUV（H10/奕派M8/星海V6意向）、预算可上探的家庭用户",
         "sellingPoint": "蓝山是30万级六座插混中空间+智驾+舒适配置均衡的选择，适合一步到位",
         "script": ""
       },
-      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+      "sourceUrls": ["https://news.china.com/socialgd/10000169/20260807/49660651.html", "https://auto.sina.cn/2026-08-08/detail-inimqtzr4252230.d.html"]
+    },
+    {
+      "title": "长城H10爆单同门观察 → 魏牌与哈弗产品差异话术",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "长城H10（哈弗品牌）24小时大定31826台，方盒子大六座+Hi4混动+全系激光雷达；同集团两款Hi4大六座并存，客户可能混淆魏牌与哈弗定位，需讲清蓝山（智能豪华插混六座29.98万起）与H10（方盒子性价比20.18万起）的差异（来源：中华网，AI分析）。",
+      "contentAngles": [
+        "魏牌蓝山 vs 长城H10：同集团大六座怎么选",
+        "豪华与性价比的差异定位话术",
+        "V8X vs H10：五座旗舰与方盒子的区别"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "同时在看长城H10与魏牌蓝山、纠结品牌的客户",
+        "sellingPoint": "蓝山主打智能豪华+插混无焦虑（WLTC综合续航1343km），H10主打方盒子性价比；按预算与用车场景分层推荐",
+        "script": ""
+      },
+      "sourceUrls": ["https://news.china.com/socialgd/10000169/20260807/49660651.html"]
+    },
+    {
+      "title": "享界G9硬派SUV破圈 → 高端SUV竞争格局观察",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "享界G9（43.98万起）预售72小时订单破1.5万台、蔚来ES9 73天交付2万台，50万级高端SUV竞争白热化；30万级蓝山作为\"插混六座无焦虑\"选项，与50万级旗舰形成分层定位（来源：IT之家/海峡导报，AI分析）。",
+      "contentAngles": [
+        "享界G9/ES9热销对30-50万SUV市场的影响",
+        "30万级 vs 50万级：高端SUV分层逻辑",
+        "插混六座蓝山在高端竞争中的位置"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "预算30-50万、在看享界G9/蔚来ES9等旗舰SUV的高端用户",
+        "sellingPoint": "如果预算30万级，蓝山插混六座更务实：WLTC综合续航1343km无焦虑+真六座+VLA智驾，比50万级旗舰性价比更高",
+        "script": ""
+      },
+      "sourceUrls": ["https://www.ithome.com/0/987/372.htm", "http://m.toutiao.com/group/7633473290568237602/"]
+    },
+    {
+      "title": "享界G9视频真实性争议 → 内容创作者边界启示",
+      "relatedModel": "魏牌全系",
+      "sourceType": "news",
+      "impact": "享界G9\"一镜到底\"泥坑视频被质疑AI合成、官方放多机位素材自证，引发对车企宣传视频真实性与AI合成话题的讨论；对汽车内容创作者是重要的\"真实边界\"警示（来源：ITBear/网易，AI分析）。",
+      "contentAngles": [
+        "车企宣传视频真实性与AI合成边界",
+        "创作者如何把握内容真实性底线",
+        "从享界G9争议看车企传播信任危机"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "关注汽车行业传播话题的内容消费者与同行",
+        "sellingPoint": "魏牌蓝山/V8X传播坚持真实实测数据（WLTC续航、零百加速均来自官方公布口径），不玩AI合成噱头",
+        "script": ""
+      },
+      "sourceUrls": ["http://m.itbear.com.cn/html/2026-08/1488677.html"]
+    },
+    {
+      "title": "国家以旧换新补贴（报废2万/置换1.5万） → 置换窗口期促单",
+      "relatedModel": "魏牌全系",
+      "sourceType": "keyword",
+      "impact": "2026年以旧换新细则：报废新能源补贴为新车价12%上限2万、置换新能源为8%上限1.5万，购置税减半（最高1.5万）持续到2027年底；政策窗口期是促成置换客户到店的有效抓手（具体以当地政策与门店执行为准）。",
+      "contentAngles": [
+        "现在换车能省多少？以旧换新补贴全解读",
+        "老车置换新能源的正确姿势",
+        "拿铁/摩卡老车主置换蓝山/高山是否划算"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "持有旧车的置换型客户（含魏牌存量车主）",
+        "sellingPoint": "置换补贴（报废至高2万/置换至高1.5万）+购置税减半+魏牌首任车主三电/核心部件终身质保，换车正当时",
+        "script": ""
+      },
+      "sourceUrls": ["https://www.xlgl.gov.cn/eportal/ui?articleKey=40ab47a5c0284b06a30d031bd1c0e39e&columnId=5f57a7fb61df47919c89a1f2f99d11d8&pageId=36a66228778440d98567b4cc3b4bb4bf", "https://auto.sina.cn/2026-08-09/detail-inimrvpc3874445.d.html"]
     },
     {
       "title": "30万内插混MPV对比热度高 → 高山切入家庭MPV升级赛道",
       "relatedModel": "魏牌高山",
-      "sourceType": "news",
+      "sourceType": "keyword",
       "impact": "ZOL发布30万内三款新锐插混7座MPV对比（高山/星海V9/GL8新能源），该价位MPV升级需求集中；高山以全系四驱+激光雷达智驾差异化（来源：ZOL 2026）。",
       "contentAngles": [
         "30万内插混MPV横评：高山/星海V9/GL8新能源怎么选",
@@ -77,7 +179,7 @@
     {
       "title": "18万级四驱SUV成蓝海 → 新摩卡Hi4 Max版主打\"四驱平权\"",
       "relatedModel": "魏牌摩卡",
-      "sourceType": "news",
+      "sourceType": "keyword",
       "impact": "新摩卡Hi4 Max版（18.58万）全系Hi4智能电四驱上市，官媒评价\"打破18万级四驱SUV价格壁垒\"；该价位主流为两驱，四驱技术溢价高（来源：汽车之家车家号 2026-04-11）。",
       "contentAngles": [
         "18万能买到什么四驱SUV？新摩卡Hi4 Max版拆解",
@@ -89,24 +191,7 @@
         "sellingPoint": "18.58万标配四驱+NAPPA真皮+CLTC 200km纯电续航，同级少有的\"标配即满配\"",
         "script": "wey_scripts/03-新摩卡18万级四驱脚本.md"
       },
-      "sourceUrls": ["https://chejiahao.autohome.com.cn/info/25198775"]
-    },
-    {
-      "title": "国家以旧换新补贴（至高1.5万）→ 置换窗口期促单",
-      "relatedModel": "魏牌全系",
-      "sourceType": "keyword",
-      "impact": "汽车之家在售车型页面标注\"国家补贴至高1.50万\"（置换购车），政策窗口期是促成置换客户到店的有效抓手（具体以当地政策与门店执行为准）。",
-      "contentAngles": [
-        "现在换车能省多少？以旧换新补贴全解读",
-        "老车置换新能源的正确姿势",
-        "拿铁/摩卡老车主置换蓝山/高山是否划算"
-      ],
-      "salesOpportunity": {
-        "targetCustomer": "持有旧车的置换型客户（含魏牌存量车主）",
-        "sellingPoint": "置换补贴至高1.5万+魏牌首任车主三电/核心部件终身质保，换车正当时",
-        "script": ""
-      },
-      "sourceUrls": ["https://www.autohome.com.cn/7727/"]
+      "sourceUrls": ["https://auto.ifeng.com/c/8sI1DPyuJ7g", "https://auto.sina.cn/2026-07-25/detail-iniixwvs9148839.d.html"]
     }
   ]
 }

@@ -7,67 +7,40 @@
   },
   "keywords": [
     {
-      "keyword": "蓝山停产传闻",
+      "keyword": "阿维塔07L",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["魏牌蓝山", "魏牌V9X", "魏牌V8X"],
-      "reason": "2026-08-05 蓝山被传停产、生产线暂停接单，魏牌CEO赵永坡回应：无停产规划，四季度将推出全新SUV产品。涉及在售主力车型，购车者关注度极高（AI分析：对魏牌销售辅助最直接的热点）。",
-      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
+      "relatedModels": [],
+      "reason": "8月8日杭州上市，官方指导价22.99-27.99万、限时权益价21.99-26.99万，全系标配华为乾崑ADS5+5C神行超充电池+896线激光雷达（Max+/Ultra），智驾与超充下探至22万级（来源：新华网/汽车之家）。",
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "http://chejiahao.autohome.com.cn/info/26151185"]
     },
     {
-      "keyword": "理想i8",
+      "keyword": "蔚来ES9",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["理想i8", "魏牌蓝山"],
-      "reason": "2026-08-06 理想i8后驱长续航版上市，30.98万元起，CLTC续航780km，与蓝山同处30万级中大型SUV市场（AI分析：构成蓝山直接竞品）。",
-      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.autohome.com.cn/7727/"]
+      "relatedModels": [],
+      "reason": "8月8日完成第20000台交付，历时73天刷新50万级高端纯电交付纪录；姚明8月5日提车任首席体验官（来源：海峡导报/中华网）。",
+      "sourceUrls": ["http://m.toutiao.com/group/7633473290568237602/", "https://3g.china.com/act/redian/13004758/20260806/49657964.html"]
     },
     {
-      "keyword": "魏牌V9X",
-      "category": "品牌",
+      "keyword": "魏牌V8X",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌V8X", "魏牌蓝山"],
+      "reason": "魏建军8月8日宣布V8X（归元S平台智慧驾控五座旗舰）定档8月14日19:30发布，超级Hi4 500kW/930N·m、CLTC综合续航1659km、800V+6C超充（来源：凤凰网/IT之家）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vQYnQChw8d", "http://finance.sina.cn/tech/2026-08-08/detail-inimrerp6323264.d.html"]
+    },
+    {
+      "keyword": "魏牌V9X EV",
+      "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": ["魏牌V9X", "魏牌蓝山"],
-      "reason": "2026年5月魏牌推出V9X（归元S平台独立旗舰），7月16日推V9X家庭版，7月29日V8X开启预订；V系列被部分用户误认为蓝山改款。",
-      "sourceUrls": ["https://so.html5.qq.com/page/real/search_news?docid=70000021_9866a74649397452"]
-    },
-    {
-      "keyword": "尊界V800",
-      "category": "车型",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": [],
-      "reason": "8月5日尊界V680/V800豪华MPV正式上市，预售23天订单破万；V800车长接近5.5米，定位行政豪华。",
-      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
-    },
-    {
-      "keyword": "红旗天工08",
-      "category": "车型",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": [],
-      "reason": "8月1日上市，指导价19.98万，限时权益后17.99万，中大型五座纯电SUV，CLTC续航670km。",
-      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
-    },
-    {
-      "keyword": "腾势Z9S",
-      "category": "车型",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": [],
-      "reason": "8月3日开启预售，25-35万，纯电轿跑，102kWh刀片电池，长续航版CLTC续航920km，三电机零百3秒级。",
-      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
-    },
-    {
-      "keyword": "哈弗H10",
-      "category": "车型",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": [],
-      "reason": "8月5日上市/预售21.48万起，长城旗下复古方盒子造型，1.5T插混，纯电续航170km。",
-      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927", "https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+      "reason": "8月7日工信部第410批公告公示V9X EV：纯电六座旗舰，前220kW/后320kW双电机，轴距3150mm，补齐车系纯电矩阵（来源：网通社/易车）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vOh3wOkWMZ", "https://news.yiche.com/xinchexiaoxi/20260807/15112090714.html"]
     },
     {
       "keyword": "享界G9",
@@ -75,62 +48,179 @@
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "预售40万起，鸿蒙智行硬派豪华SUV，120kWh电池纯电续航720km，具备L3级自动驾驶路试资质。",
-      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
+      "reason": "预售价43.98万起，鸿蒙智行首款科技豪华硬派SUV，预售72小时订单突破15000台，标配L3架构+ADS5高阶版（来源：IT之家/汽车之家）。",
+      "sourceUrls": ["https://www.ithome.com/0/987/372.htm", "http://auto.cnfol.com/xincheshangshi/20260809/32329682.shtml"]
     },
     {
-      "keyword": "全新smart精灵#1",
+      "keyword": "领克07GT",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "8月6日换代上市，升级800V高压平台、6C快充（12分钟10%-80%），CLTC续航535km，配激光雷达与Orin Y芯片。",
-      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+      "reason": "领克07GT正式上市，限时价14.58-19.68万，瞄准旅行车市场，07GT拉力赛车8月出征拉力赛（来源：中国经营网）。",
+      "sourceUrls": ["http://www.cb.com.cn/index/show/kx/cv/cv135733221552"]
     },
     {
-      "keyword": "深蓝S05",
+      "keyword": "2027款海豹06",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "8月6日上市，深蓝品牌首款全系标配激光雷达车型，支持城市领航辅助，纯电/增程双动力。",
-      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+      "reason": "定档8月11日深圳上市，插混/纯电各5款预扣价10.5-14.5万，车顶激光雷达+天神之眼B（254TOPS）+第二代刀片电池+800V，B级智驾下探至10万级（来源：汽车之家）。",
+      "sourceUrls": ["http://auto.cnfol.com/xincheshangshi/20260808/32329532.shtml", "http://m.toutiao.com/group/7671799242310107658/"]
     },
     {
-      "keyword": "阿维塔07L",
+      "keyword": "长城H10",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["哈弗H10", "魏牌V8X"],
+      "reason": "长城H10 8月5日上市，限时换新价20.18万起，24小时大定31826台；方盒子大六座+Hi4混动440kW+全系激光雷达，同门话题与魏牌相关（来源：中华网/新浪财经）。",
+      "sourceUrls": ["https://news.china.com/socialgd/10000169/20260807/49660651.html", "http://finance.sina.cn/tech/2026-08-07/detail-inimmyev3218094.d.html"]
+    },
+    {
+      "keyword": "东风奕派M8",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "8月8日上市，相比07车长+85mm、轴距+50mm，搭载华为乾崑ADS 5智驾系统与896线激光雷达。",
-      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://new.qq.com/rain/a/20260801A0BU3K00"]
+      "reason": "奕派M8全系标配华为乾崑ADS 5 Pro，限时置换价16.98万起，上市4小时订单破万；奕派科技1-7月交付近14万辆（来源：新浪汽车/易车视频）。",
+      "sourceUrls": ["https://auto.sina.cn/2026-08-08/detail-inimqtzr4252230.d.html", "https://vc.yiche.com/vplay/12444462.html"]
     },
     {
-      "keyword": "比亚迪秦MAX",
+      "keyword": "星海V6",
       "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "8月13日上市，插混+纯电双动力家用轿车（报道预告）。",
-      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://www.toutiao.com/a7670145979349402156"]
+      "reason": "8月8日上市，2+2+2六座纯电SUV、轴距2900mm，乾崑尊享版10.49万起标配华为乾崑ADS 5.0智驾+高通骁龙8295座舱，成为10万级华为乾崑智驾车型（来源：今日头条）。",
+      "sourceUrls": ["http://m.toutiao.com/group/7671797614014382594/"]
     },
     {
-      "keyword": "星光L",
-      "category": "价格",
+      "keyword": "一汽悦意08",
+      "category": "车型",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "10万级大六座SUV，上市两周累计交付5650台，纯电续航260km、综合续航1260km（来源：车市风景线）。",
-      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+      "reason": "8月8日华南区上市，9.99-13.99万，增程/纯电双动力，配高通骁龙8295P座舱+高配激光雷达（来源：太平洋号）。",
+      "sourceUrls": ["https://hj.pcauto.com.cn/wap/article/3477118.html"]
     },
     {
-      "keyword": "成都车展",
+      "keyword": "方程豹",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "7月销量41213台、同比+190.6%创单月新高，钛7月交付近2.7万台；方盒子/硬派SUV市场爆发（来源：央广网）。",
+      "sourceUrls": ["http://www.cnr.cn/2013qcpd/djfb/20260805/t20260805_527748225.shtml"]
+    },
+    {
+      "keyword": "华为乾崑ADS5",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["阿维塔07L", "星海V6", "享界G9", "东风奕派M8"],
+      "reason": "ADS5密集上车：阿维塔07L全系标配、星海V6下探至10万级、奕派M8 16.98万起全系标配、享界G9配ADS5高阶版；华为乾崑智驾累计里程破137亿公里（来源：多篇报道交叉验证）。",
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "http://m.toutiao.com/group/7671797614014382594/", "https://auto.sina.cn/2026-08-08/detail-inimqtzr4252230.d.html"]
+    },
+    {
+      "keyword": "896线激光雷达",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["阿维塔07L", "享界G9", "魏牌蓝山"],
+      "reason": "阿维塔07L Max+/Ultra、享界G9均搭载华为896线双光路图像级激光雷达，智驾硬件规格持续升级（来源：新华网/新浪汽车）。",
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "https://auto.sina.cn/2026-08-08/detail-inimqccv2822847.d.html"]
+    },
+    {
+      "keyword": "5C神行超充电池",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["阿维塔07L"],
+      "reason": "阿维塔07L全系标配89.33kWh宁德时代5C神行超充电池，800V平台10分钟补能375km，超充成为新车标配（来源：新华网/汽车之家）。",
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "http://chejiahao.autohome.com.cn/info/26151185"]
+    },
+    {
+      "keyword": "800V高压快充",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌V8X", "阿维塔07L", "2027款海豹06"],
+      "reason": "魏牌V8X支持800V+6C超充、阿维塔07L 800V平台、海豹06纯电依托800V高压平台，2026年800V平台加速普及（来源：多篇报道）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vQYnQChw8d", "http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html"]
+    },
+    {
+      "keyword": "L3级架构",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["享界G9"],
+      "reason": "享界G9为首款采用L3级架构设计的豪华硬派SUV，已获批北京120km/h L3自动驾驶道路测试牌照（来源：新京报/新浪汽车）。",
+      "sourceUrls": ["https://www.bjnews.com.cn/detail/1786022956129372.html", "https://auto.sina.cn/2026-08-08/detail-inimpwvx2833026.d.html"]
+    },
+    {
+      "keyword": "蓝山停产传闻",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌蓝山", "魏牌V8X", "魏牌V9X"],
+      "reason": "蓝山停产传闻持续发酵，魏牌CEO赵永坡8月5日辟谣：无停产规划，Q4推蓝山全新产品（SUV品类创新突破）；8月9日媒体仍在持续报道（AI分析：对魏牌销售辅助最直接的热点）。",
+      "sourceUrls": ["https://k.sina.cn/article_7880069022_1d5b04f9e068019vk6.html", "http://m.toutiao.com/group/7670860232423932416/"]
+    },
+    {
+      "keyword": "竹知了事件",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "网友用竹知了声音玩梗问界M9发布会，华为批量投诉下架视频，鸿蒙智行8月4日声明回应，'越禁越火'的史翠珊效应引发全网讨论（来源：腾讯新闻/中华网）。",
+      "sourceUrls": ["https://view.inews.qq.com/k/20260804A0CR3400?no-redirect=1&path=a&redirect_pc=1", "https://3g.china.com/act/news/10000169/20260805/49654669.html"]
+    },
+    {
+      "keyword": "享界G9视频真实性争议",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["享界G9"],
+      "reason": "享界G9发布会'一镜到底'泥坑视频被质疑AI合成，官方放多机位实拍素材自证，陈震/韩路等大V解读，8月9日持续发酵（来源：ITBear/网易）。",
+      "sourceUrls": ["http://m.itbear.com.cn/html/2026-08/1488677.html", "http://m.163.com/dy/article/L3QS6M8O05561FZG.html"]
+    },
+    {
+      "keyword": "雪佛兰退市传闻",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "雪佛兰被曝将停止在华销售，通用回应不停产、转攻出口市场；2025年销量不足9000辆，官博停更超一年（来源：东方财富/今日头条）。",
+      "sourceUrls": ["https://auto.eastmoney.com/a/chyxw.html", "http://m.toutiao.com/group/7671845832995684864/"]
+    },
+    {
+      "keyword": "特斯拉开源争议",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "特斯拉宣布'开源'Model S/X全部设计资料，实测GitHub仓库仅8个文件、缺关键设计，被工程公司批评为'文档释放'而非'开源'（来源：今日头条/钛媒体）。",
+      "sourceUrls": ["http://m.toutiao.com/group/7671868169459417626/"]
+    },
+    {
+      "keyword": "营销内卷专项整治",
       "category": "政策",
       "trend": "上升",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "8月下旬成都车展将集中首发旗舰车型（比亚迪大汉、新吉利博越、奇瑞捷豹路虎神行者8等），下半年车市大戏开幕。",
-      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.toutiao.com/a7670145979349402156"]
+      "reason": "新华社点名车圈营销内卷，六部门联合印发专项整治通知：严打网络黑公关/水军、整治夸大玄学式宣传、规范预售订单数据发布（来源：网易/新华社评论）。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3SMJ8PN0553TDSE.html"]
+    },
+    {
+      "keyword": "激进式创新监管",
+      "category": "政策",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "工信部装备工业一司要求抵制非理性竞争，加强'激进式'创新设计风险隐患甄别与驾驶辅助/自动驾驶功能安全评估（来源：腾讯新闻）。",
+      "sourceUrls": ["http://news.qq.com/rain/a/20260809A0401R00"]
     },
     {
       "keyword": "国家以旧换新补贴",
@@ -138,89 +228,71 @@
       "trend": "平稳",
       "heatLevel": null,
       "relatedModels": [],
-      "reason": "汽车之家在售车型页面标注\"国家补贴至高1.50万\"（置换购车，以实际政策与门店为准）。",
-      "sourceUrls": ["https://www.autohome.com.cn/7727/"]
+      "reason": "2026年以旧换新细则延续：报废更新最高补2万元（新能源车价12%）、置换更新最高补1.5万元（8%）；购置税减半至2027年底（来源：锡林郭勒盟行政公署/新浪汽车）。",
+      "sourceUrls": ["https://www.xlgl.gov.cn/eportal/ui?articleKey=40ab47a5c0284b06a30d031bd1c0e39e&columnId=5f57a7fb61df47919c89a1f2f99d11d8&pageId=36a66228778440d98567b4cc3b4bb4bf", "https://auto.sina.cn/2026-08-09/detail-inimrvpc3874445.d.html"]
+    },
+    {
+      "keyword": "7月销量",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "7月新能源渗透率约64.5%创新高；比亚迪41.9万辆断层领先，奇瑞出口首破20万，零跑101267台首破10万，鸿蒙智行45046台（来源：央广网）。",
+      "sourceUrls": ["http://www.cnr.cn/2013qcpd/djfb/20260805/t20260805_527748225.shtml"]
     },
     {
       "keyword": "大六座SUV",
       "category": "购车需求",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["魏牌蓝山", "星光L", "理想L8"],
-      "reason": "10万级星光L以\"大六座\"卖点热销（两周交付5650台），蓝山、理想L8等30万级六座SUV同处该需求赛道（AI分析）。",
-      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+      "relatedModels": ["魏牌蓝山", "魏牌V9X", "长城H10", "东风奕派M8", "星海V6"],
+      "reason": "长城H10六座版24小时大定31826台、奕派M8六座上市4小时破万、星海V6六座10万级走量、魏牌V9X/V8X旗舰扩容，大六座是家庭购车核心需求赛道（AI分析）。",
+      "sourceUrls": ["https://news.china.com/socialgd/10000169/20260807/49660651.html", "https://auto.sina.cn/2026-08-08/detail-inimqtzr4252230.d.html"]
     },
     {
-      "keyword": "30万内插混MPV",
-      "category": "价格",
+      "keyword": "旅行车",
+      "category": "购车需求",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["魏牌高山", "东风风行星海V9", "别克GL8新能源"],
-      "reason": "ZOL评测：30万元内三款新锐插混7座MPV深度对比（高山/星海V9/GL8新能源），家庭MPV升级需求集中释放。",
-      "sourceUrls": ["https://auto.zol.com.cn/1222/12225723.html"]
+      "relatedModels": [],
+      "reason": "领克07GT上市引发旅行车话题，2025年自主品牌旅行车销量占比超八成，2026年市场规模预计18.7万辆（来源：中国经营网）。",
+      "sourceUrls": ["http://www.cb.com.cn/index/show/kx/cv/cv135733221552"]
     },
     {
-      "keyword": "800V高压快充",
-      "category": "技术",
+      "keyword": "方盒子SUV",
+      "category": "购车需求",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["smart精灵#1", "腾势Z9S"],
-      "reason": "全新smart精灵#1升级800V平台支持6C快充，腾势Z9S配800V高压快充，补能效率成为新车竞争焦点。",
-      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.toutiao.com/a7670093383796539927"]
-    },
-    {
-      "keyword": "激光雷达标配",
-      "category": "技术",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": ["深蓝S05", "阿维塔07L", "魏牌高山"],
-      "reason": "深蓝S05全系标配激光雷达、阿维塔07L配896线激光雷达、魏牌高山配激光雷达+Coffee Pilot Ultra，智驾硬件下放趋势明显。",
-      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://auto.zol.com.cn/1222/12225723.html"]
-    },
-    {
-      "keyword": "18万级四驱SUV",
-      "category": "价格",
-      "trend": "上升",
-      "heatLevel": null,
-      "relatedModels": ["魏牌新摩卡Hi4 Max版"],
-      "reason": "2026-04-10新摩卡Hi4 Max版上市，18.58万元全系标配Hi4智能电四驱，打破18万级四驱SUV价格壁垒（来源：汽车之家车家号）。",
-      "sourceUrls": ["https://chejiahao.autohome.com.cn/info/25198775"]
+      "relatedModels": ["长城H10", "魏牌V8X"],
+      "reason": "方程豹7月销4.1万台、长城H10方盒子六座24小时大定破3万台，方盒子/硬派造型持续热销（来源：央广网/中华网）。",
+      "sourceUrls": ["http://www.cnr.cn/2013qcpd/djfb/20260805/t20260805_527748225.shtml", "https://news.china.com/socialgd/10000169/20260807/49660651.html"]
     },
     {
       "keyword": "Hi4智能电四驱",
       "category": "技术",
-      "trend": "平稳",
+      "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["魏牌蓝山", "魏牌高山", "魏牌新摩卡Hi4 Max版"],
-      "reason": "长城魏牌 Hi4 智能电混四驱技术（前后轴双电机+四挡DHT），覆盖蓝山/高山/摩卡全系（来源：魏牌官网）。",
-      "sourceUrls": ["https://www.wey.com/mocca.html", "https://www.wey.com/lanshan.html"]
+      "relatedModels": ["魏牌蓝山", "魏牌V8X", "长城H10"],
+      "reason": "魏牌V8X搭载超级Hi4混动系统（500kW/930N·m），长城H10同用Hi4混动（440kW），Hi4智能电四驱持续覆盖长城系新旗舰（来源：凤凰网/中华网）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vQYnQChw8d", "https://news.china.com/socialgd/10000169/20260807/49660651.html"]
     },
     {
       "keyword": "零重力座椅",
       "category": "购车需求",
       "trend": "上升",
       "heatLevel": null,
-      "relatedModels": ["理想i8", "魏牌蓝山", "魏牌高山"],
-      "reason": "理想i8主副驾标配全尺寸零重力座椅（16点按摩），蓝山女神副驾零重力、高山NAPPA零重力，舒适性配置成家庭车卖点（AI分析）。",
-      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.wey.com/lanshan.html", "https://auto.zol.com.cn/1222/12225723.html"]
+      "relatedModels": ["魏牌蓝山", "魏牌高山", "阿维塔07L", "蔚来ES9"],
+      "reason": "阿维塔07L副驾零重力座椅（双120°云端躺姿）、蔚来ES9二排飞航零重力（腿托展开2.3米）、蓝山女神副驾零重力，舒适性配置成家庭车卖点（AI分析，来源见下）。",
+      "sourceUrls": ["http://www.xinhuanet.com/auto/20260809/03a6ea97a15e494386e5a521140b8303/c.html", "https://3g.china.com/act/redian/13004758/20260806/49657964.html"]
     },
     {
-      "keyword": "蓝山月销量",
-      "category": "品牌",
-      "trend": "下降",
-      "heatLevel": null,
-      "relatedModels": ["魏牌蓝山"],
-      "reason": "第三方平台数据显示蓝山2026年1-5月销量903/721/606/839/657辆，累计不足4000辆；6月官方及乘联会暂未公布（红星新闻）。",
-      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
-    },
-    {
-      "keyword": "拿铁停产",
+      "keyword": "魏牌蓝山",
       "category": "车型",
       "trend": "平稳",
       "heatLevel": null,
-      "relatedModels": ["魏牌拿铁"],
-      "reason": "拿铁DHT 2022款全系已在官网标注\"停售\"，经销商确认停产（部分城市仅库存现车）（来源：懂车帝车友圈/行业报道）。",
-      "sourceUrls": ["https://dongchedi.com/community/4868/hot", "https://www.qicheq.com/che/275265556b.html"]
+      "relatedModels": ["魏牌蓝山"],
+      "reason": "蓝山为魏牌SUV主力（十几万用户），官方确认无停产规划、Q4推全新产品；2026款智能进阶版在售29.98-32.68万（来源：新浪看点/今日头条）。",
+      "sourceUrls": ["https://k.sina.cn/article_7880069022_1d5b04f9e068019vk6.html", "https://auto.sina.cn/2026-08-08/detail-inimqptr2701343.d.html"]
     }
   ]
 }
