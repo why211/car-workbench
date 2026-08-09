@@ -1,0 +1,112 @@
+{
+  "schema": {
+    "version": "1.0",
+    "updatedAt": "2026-08-09",
+    "description": "魏牌销售机会分析。输入：today.js（当日热点）、automotive_keywords.json（关键词）、wey_sales.json（车型库）。每次今日数据更新后应重新生成。",
+    "note": "以下 impact/contentAngles/salesOpportunity 均为 AI 基于真实事件的分析与话术方向，事实部分（事件、时间、价格）来自已核实公开来源并在 sourceUrls 中注明；禁止把 AI 分析当作事实传播。"
+  },
+  "opportunities": [
+    {
+      "title": "蓝山停产传闻引发购车者疑虑 → 主动澄清抢占信任",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "2026-08-05 蓝山被传停产、生产线暂停接单，魏牌CEO赵永坡官方回应：无停产规划，四季度推出全新SUV产品；官方客服说明生产线改造升级中，部分门店有现车。该传闻直接影响在售蓝山的意向客户决策（来源：红星新闻 2026-08-06）。",
+      "contentAngles": [
+        "官方回应逐条解读：不停产、四季度新品、生产线升级意味着什么",
+        "现车资源紧张→抓紧锁车的话术（限量感，不编造数据）",
+        "V9X/V8X 与蓝山关系澄清（独立旗舰 vs 蓝山迭代）"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "已关注蓝山但被\"停产传闻\"劝退的意向客户",
+        "sellingPoint": "官方已确认蓝山不停产、持续迭代；生产线改造升级是产品力提升信号；当前门店现车有限，尽早试驾锁车",
+        "script": "wey_scripts/01-蓝山停产传闻澄清脚本.md"
+      },
+      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
+    },
+    {
+      "title": "理想i8上市（30.98万起纯电）正面冲击30万级SUV → 蓝山差异化打\"插混无焦虑\"",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "2026-08-06 理想i8后驱长续航版上市，30.98万元起，CLTC续航780km、5C超充；与蓝山（29.98-32.68万插混）同价位竞争。纯电与插混路线之争是当前30万级家庭用户最纠结的问题（来源：凤凰网/汽车之家）。",
+      "contentAngles": [
+        "蓝山 vs 理想i8：插混 vs 纯电，长途出行谁更省心",
+        "同为6座/大空间，理想更偏智能化标签，蓝山主打性价比+插混无焦虑",
+        "家庭用户真实场景对比：春节长途、露营、补能便利性"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "同时在看理想i8/蓝山的30万级家庭购车用户",
+        "sellingPoint": "蓝山WLTC综合续航1343km（插混），长途无补能焦虑；29.98万起比理想i8后驱版还低1万，配置与空间同级",
+        "script": "wey_scripts/02-蓝山vs理想i8对比脚本.md"
+      },
+      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.autohome.com.cn/7727/"]
+    },
+    {
+      "title": "大六座SUV需求升温（星光L热销）→ 六座升级需求导流蓝山",
+      "relatedModel": "魏牌蓝山",
+      "sourceType": "news",
+      "impact": "10万级大六座星光L上市两周交付5650台，印证大六座需求旺盛；预算充足的家庭用户存在\"从入门六座升级到30万级插混六座\"的迁移路径（来源：车市风景线）。",
+      "contentAngles": [
+        "为什么越来越多人选6座？大六座需求解读",
+        "10万级六座 vs 30万级六座：差在哪里（空间/智驾/舒适/动力）",
+        "六座SUV选购清单：按预算分层推荐"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "正在看10-20万级六座SUV、预算可上探的家庭用户",
+        "sellingPoint": "蓝山是30万级六座插混中空间+智驾+舒适配置均衡的选择，适合一步到位",
+        "script": ""
+      },
+      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+    },
+    {
+      "title": "30万内插混MPV对比热度高 → 高山切入家庭MPV升级赛道",
+      "relatedModel": "魏牌高山",
+      "sourceType": "news",
+      "impact": "ZOL发布30万内三款新锐插混7座MPV对比（高山/星海V9/GL8新能源），该价位MPV升级需求集中；高山以全系四驱+激光雷达智驾差异化（来源：ZOL 2026）。",
+      "contentAngles": [
+        "30万内插混MPV横评：高山/星海V9/GL8新能源怎么选",
+        "MPV也要四驱？高山Hi4性能版的差异化价值",
+        "家用MPV选购：第二排舒适与安全配置优先级"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "预算30万内、考虑家用/商务MPV的用户",
+        "sellingPoint": "高山27.28万起全系Hi4性能版四驱，配激光雷达智驾；对比GL8新能源的品牌溢价，性价比突出",
+        "script": ""
+      },
+      "sourceUrls": ["https://auto.zol.com.cn/1222/12225723.html"]
+    },
+    {
+      "title": "18万级四驱SUV成蓝海 → 新摩卡Hi4 Max版主打\"四驱平权\"",
+      "relatedModel": "魏牌摩卡",
+      "sourceType": "news",
+      "impact": "新摩卡Hi4 Max版（18.58万）全系Hi4智能电四驱上市，官媒评价\"打破18万级四驱SUV价格壁垒\"；该价位主流为两驱，四驱技术溢价高（来源：汽车之家车家号 2026-04-11）。",
+      "contentAngles": [
+        "18万能买到什么四驱SUV？新摩卡Hi4 Max版拆解",
+        "两驱 vs 四驱：雨雪天/长途自驾谁更值",
+        "18万级SUV性价比横评"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "预算18万级、想要四驱的年轻家庭/首购用户",
+        "sellingPoint": "18.58万标配四驱+NAPPA真皮+CLTC 200km纯电续航，同级少有的\"标配即满配\"",
+        "script": "wey_scripts/03-新摩卡18万级四驱脚本.md"
+      },
+      "sourceUrls": ["https://chejiahao.autohome.com.cn/info/25198775"]
+    },
+    {
+      "title": "国家以旧换新补贴（至高1.5万）→ 置换窗口期促单",
+      "relatedModel": "魏牌全系",
+      "sourceType": "keyword",
+      "impact": "汽车之家在售车型页面标注\"国家补贴至高1.50万\"（置换购车），政策窗口期是促成置换客户到店的有效抓手（具体以当地政策与门店执行为准）。",
+      "contentAngles": [
+        "现在换车能省多少？以旧换新补贴全解读",
+        "老车置换新能源的正确姿势",
+        "拿铁/摩卡老车主置换蓝山/高山是否划算"
+      ],
+      "salesOpportunity": {
+        "targetCustomer": "持有旧车的置换型客户（含魏牌存量车主）",
+        "sellingPoint": "置换补贴至高1.5万+魏牌首任车主三电/核心部件终身质保，换车正当时",
+        "script": ""
+      },
+      "sourceUrls": ["https://www.autohome.com.cn/7727/"]
+    }
+  ]
+}

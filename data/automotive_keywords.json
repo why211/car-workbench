@@ -1,0 +1,226 @@
+{
+  "schema": {
+    "version": "1.0",
+    "updatedAt": "2026-08-09",
+    "description": "汽车热点关键词库。所有 keyword 均来自可核实的公开报道/行业媒体；heatLevel（热度等级）无权威排名数据时为 null；无法确认的字段一律为 null，禁止编造。",
+    "note": "本文件由每日抓取与人工核实共同维护；trend/heatLevel 为 AI 对公开报道的归纳（标注 AI 分析），相关事实与链接均真实。"
+  },
+  "keywords": [
+    {
+      "keyword": "蓝山停产传闻",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌蓝山", "魏牌V9X", "魏牌V8X"],
+      "reason": "2026-08-05 蓝山被传停产、生产线暂停接单，魏牌CEO赵永坡回应：无停产规划，四季度将推出全新SUV产品。涉及在售主力车型，购车者关注度极高（AI分析：对魏牌销售辅助最直接的热点）。",
+      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
+    },
+    {
+      "keyword": "理想i8",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["理想i8", "魏牌蓝山"],
+      "reason": "2026-08-06 理想i8后驱长续航版上市，30.98万元起，CLTC续航780km，与蓝山同处30万级中大型SUV市场（AI分析：构成蓝山直接竞品）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.autohome.com.cn/7727/"]
+    },
+    {
+      "keyword": "魏牌V9X",
+      "category": "品牌",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌V9X", "魏牌蓝山"],
+      "reason": "2026年5月魏牌推出V9X（归元S平台独立旗舰），7月16日推V9X家庭版，7月29日V8X开启预订；V系列被部分用户误认为蓝山改款。",
+      "sourceUrls": ["https://so.html5.qq.com/page/real/search_news?docid=70000021_9866a74649397452"]
+    },
+    {
+      "keyword": "尊界V800",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月5日尊界V680/V800豪华MPV正式上市，预售23天订单破万；V800车长接近5.5米，定位行政豪华。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+    },
+    {
+      "keyword": "红旗天工08",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月1日上市，指导价19.98万，限时权益后17.99万，中大型五座纯电SUV，CLTC续航670km。",
+      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
+    },
+    {
+      "keyword": "腾势Z9S",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月3日开启预售，25-35万，纯电轿跑，102kWh刀片电池，长续航版CLTC续航920km，三电机零百3秒级。",
+      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
+    },
+    {
+      "keyword": "哈弗H10",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月5日上市/预售21.48万起，长城旗下复古方盒子造型，1.5T插混，纯电续航170km。",
+      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927", "https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+    },
+    {
+      "keyword": "享界G9",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "预售40万起，鸿蒙智行硬派豪华SUV，120kWh电池纯电续航720km，具备L3级自动驾驶路试资质。",
+      "sourceUrls": ["https://www.toutiao.com/a7670093383796539927"]
+    },
+    {
+      "keyword": "全新smart精灵#1",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月6日换代上市，升级800V高压平台、6C快充（12分钟10%-80%），CLTC续航535km，配激光雷达与Orin Y芯片。",
+      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+    },
+    {
+      "keyword": "深蓝S05",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月6日上市，深蓝品牌首款全系标配激光雷达车型，支持城市领航辅助，纯电/增程双动力。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html"]
+    },
+    {
+      "keyword": "阿维塔07L",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月8日上市，相比07车长+85mm、轴距+50mm，搭载华为乾崑ADS 5智驾系统与896线激光雷达。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://new.qq.com/rain/a/20260801A0BU3K00"]
+    },
+    {
+      "keyword": "比亚迪秦MAX",
+      "category": "车型",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月13日上市，插混+纯电双动力家用轿车（报道预告）。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://www.toutiao.com/a7670145979349402156"]
+    },
+    {
+      "keyword": "星光L",
+      "category": "价格",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "10万级大六座SUV，上市两周累计交付5650台，纯电续航260km、综合续航1260km（来源：车市风景线）。",
+      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+    },
+    {
+      "keyword": "成都车展",
+      "category": "政策",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "8月下旬成都车展将集中首发旗舰车型（比亚迪大汉、新吉利博越、奇瑞捷豹路虎神行者8等），下半年车市大戏开幕。",
+      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.toutiao.com/a7670145979349402156"]
+    },
+    {
+      "keyword": "国家以旧换新补贴",
+      "category": "政策",
+      "trend": "平稳",
+      "heatLevel": null,
+      "relatedModels": [],
+      "reason": "汽车之家在售车型页面标注\"国家补贴至高1.50万\"（置换购车，以实际政策与门店为准）。",
+      "sourceUrls": ["https://www.autohome.com.cn/7727/"]
+    },
+    {
+      "keyword": "大六座SUV",
+      "category": "购车需求",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌蓝山", "星光L", "理想L8"],
+      "reason": "10万级星光L以\"大六座\"卖点热销（两周交付5650台），蓝山、理想L8等30万级六座SUV同处该需求赛道（AI分析）。",
+      "sourceUrls": ["http://www.carautoview.com/index.php?c=show&id=3071"]
+    },
+    {
+      "keyword": "30万内插混MPV",
+      "category": "价格",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌高山", "东风风行星海V9", "别克GL8新能源"],
+      "reason": "ZOL评测：30万元内三款新锐插混7座MPV深度对比（高山/星海V9/GL8新能源），家庭MPV升级需求集中释放。",
+      "sourceUrls": ["https://auto.zol.com.cn/1222/12225723.html"]
+    },
+    {
+      "keyword": "800V高压快充",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["smart精灵#1", "腾势Z9S"],
+      "reason": "全新smart精灵#1升级800V平台支持6C快充，腾势Z9S配800V高压快充，补能效率成为新车竞争焦点。",
+      "sourceUrls": ["https://new.qq.com/rain/a/20260801A0BU3K00", "https://www.toutiao.com/a7670093383796539927"]
+    },
+    {
+      "keyword": "激光雷达标配",
+      "category": "技术",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["深蓝S05", "阿维塔07L", "魏牌高山"],
+      "reason": "深蓝S05全系标配激光雷达、阿维塔07L配896线激光雷达、魏牌高山配激光雷达+Coffee Pilot Ultra，智驾硬件下放趋势明显。",
+      "sourceUrls": ["https://www.163.com/dy/article/L3GDF0UE05562IKL.html", "https://auto.zol.com.cn/1222/12225723.html"]
+    },
+    {
+      "keyword": "18万级四驱SUV",
+      "category": "价格",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["魏牌新摩卡Hi4 Max版"],
+      "reason": "2026-04-10新摩卡Hi4 Max版上市，18.58万元全系标配Hi4智能电四驱，打破18万级四驱SUV价格壁垒（来源：汽车之家车家号）。",
+      "sourceUrls": ["https://chejiahao.autohome.com.cn/info/25198775"]
+    },
+    {
+      "keyword": "Hi4智能电四驱",
+      "category": "技术",
+      "trend": "平稳",
+      "heatLevel": null,
+      "relatedModels": ["魏牌蓝山", "魏牌高山", "魏牌新摩卡Hi4 Max版"],
+      "reason": "长城魏牌 Hi4 智能电混四驱技术（前后轴双电机+四挡DHT），覆盖蓝山/高山/摩卡全系（来源：魏牌官网）。",
+      "sourceUrls": ["https://www.wey.com/mocca.html", "https://www.wey.com/lanshan.html"]
+    },
+    {
+      "keyword": "零重力座椅",
+      "category": "购车需求",
+      "trend": "上升",
+      "heatLevel": null,
+      "relatedModels": ["理想i8", "魏牌蓝山", "魏牌高山"],
+      "reason": "理想i8主副驾标配全尺寸零重力座椅（16点按摩），蓝山女神副驾零重力、高山NAPPA零重力，舒适性配置成家庭车卖点（AI分析）。",
+      "sourceUrls": ["https://auto.ifeng.com/c/8vMhK2mwPx6", "https://www.wey.com/lanshan.html", "https://auto.zol.com.cn/1222/12225723.html"]
+    },
+    {
+      "keyword": "蓝山月销量",
+      "category": "品牌",
+      "trend": "下降",
+      "heatLevel": null,
+      "relatedModels": ["魏牌蓝山"],
+      "reason": "第三方平台数据显示蓝山2026年1-5月销量903/721/606/839/657辆，累计不足4000辆；6月官方及乘联会暂未公布（红星新闻）。",
+      "sourceUrls": ["https://www.toutiao.com/article/7670865392339894830/"]
+    },
+    {
+      "keyword": "拿铁停产",
+      "category": "车型",
+      "trend": "平稳",
+      "heatLevel": null,
+      "relatedModels": ["魏牌拿铁"],
+      "reason": "拿铁DHT 2022款全系已在官网标注\"停售\"，经销商确认停产（部分城市仅库存现车）（来源：懂车帝车友圈/行业报道）。",
+      "sourceUrls": ["https://dongchedi.com/community/4868/hot", "https://www.qicheq.com/che/275265556b.html"]
+    }
+  ]
+}
